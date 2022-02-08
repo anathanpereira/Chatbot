@@ -1,0 +1,233 @@
+[
+  {
+    "id": "builtin_text-tNfztq",
+    "formData": {
+      "text$en": "Olá! ",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:15:49.122Z",
+    "modifiedOn": "2022-01-11T17:21:51.361Z"
+  },
+  {
+    "id": "builtin_text-6ArBJ7",
+    "formData": {
+      "text$en": "Meu  amigo, eu ja dei oi",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:21:03.716Z",
+    "modifiedOn": "2022-01-11T17:21:03.716Z"
+  },
+  {
+    "id": "builtin_text-LbbHMS",
+    "formData": {
+      "text$en": "Seja bem vindo ao bot de demonstração do UX Leris!",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:22:21.968Z",
+    "modifiedOn": "2022-01-11T17:22:21.968Z"
+  },
+  {
+    "id": "builtin_text-7eTlOb",
+    "formData": {
+      "text$en": "Me diga, você quer saber mais sobre os nossos padrões?",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:25:19.547Z",
+    "modifiedOn": "2022-01-11T17:25:19.547Z"
+  },
+  {
+    "id": "builtin_text-1ZfU85",
+    "formData": {
+      "text$en": "Tudo bem! Se precisar de algo é só me chamar.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:28:09.423Z",
+    "modifiedOn": "2022-01-11T17:28:09.423Z"
+  },
+  {
+    "id": "builtin_text-OtOcnq",
+    "formData": {
+      "text$en": "Mudou de idéia?",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:29:45.966Z",
+    "modifiedOn": "2022-01-11T17:29:45.966Z"
+  },
+  {
+    "id": "builtin_text-_58DxM",
+    "formData": {
+      "text$en": "Vamos lá então! ",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:39:37.657Z",
+    "modifiedOn": "2022-01-11T17:39:37.657Z"
+  },
+  {
+    "id": "builtin_text-6Kp764",
+    "formData": {
+      "text$en": "Nossos padrões vão te ajudar a construir seu ambiente virtual, melhorando a distancia de navegação entre suas User Stories e suas informações de UX.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:39:54.979Z",
+    "modifiedOn": "2022-01-11T17:39:54.979Z"
+  },
+  {
+    "id": "builtin_text-e3f_u4",
+    "formData": {
+      "text$en": "Nesse caso você precisa do padrão UX Concern",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:58:46.620Z",
+    "modifiedOn": "2022-01-11T18:22:55.227Z"
+  },
+  {
+    "id": "builtin_text-N-mvsm",
+    "formData": {
+      "text$en": "A aplicação desse padrão acontece quando se existe informações e artefatos de UX no projeto que são importantes para várias User Story. Essas informações devem ser alocadas em uma página de repositório geral, que deve ser conectada a todas as Epics e User Stories, que fazem uso de seu conteúdo, por meio de um link.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:59:06.773Z",
+    "modifiedOn": "2022-01-11T17:59:06.773Z"
+  },
+  {
+    "id": "builtin_text-bCm64i",
+    "formData": {
+      "text$en": "A aplicação desse padrão é feita quando se é preciso armazenar os artefatos e informações de UX, que são gerados em uma User Story, e mantê-los acessíveis aos profissionais. Para isso é criado uma página em um repositório virtual especifica para a User Story, que são conectados por meio de um link.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:00:02.282Z",
+    "modifiedOn": "2022-01-11T18:00:02.282Z"
+  },
+  {
+    "id": "builtin_text-zoXVqW",
+    "formData": {
+      "text$en": "Precisa de mais alguma coisa?",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:01:52.262Z",
+    "modifiedOn": "2022-01-11T18:01:52.262Z"
+  },
+  {
+    "id": "builtin_text-Z190bU",
+    "formData": {
+      "text$en": "Tudo bem, espero ter ajudado!",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:04:17.610Z",
+    "modifiedOn": "2022-01-11T18:04:17.610Z"
+  },
+  {
+    "id": "builtin_text-OROTqW",
+    "formData": {
+      "text$en": "Para a criação das User Stories não podemos esquecer das informações de UX nos critérios de aceitação.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:13:42.593Z",
+    "modifiedOn": "2022-01-11T18:13:42.593Z"
+  },
+  {
+    "id": "builtin_text-kuT1Hi",
+    "formData": {
+      "text$en": "Esse padrão aborda o problema de como evitar que os desenvolvedores negligenciem os requisitos de UX específicos de um recurso ao ler um US, propondo como solução adicionar os critérios de aceitação da User Stories relacionados aos requisitos de UX específicos desse recurso.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:15:15.320Z",
+    "modifiedOn": "2022-01-11T18:15:15.320Z"
+  },
+  {
+    "id": "builtin_text-CIDrmw",
+    "formData": {
+      "text$en": "Este padrão trata de como enfatizar as atividades de UX associadas a uma User Story específica para cumprir seus requisitos de UX, propondo como solução categorizar como UX Tasks as atividades que precisam ser executadas para implementar os requisitos de UX.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:22:05.566Z",
+    "modifiedOn": "2022-01-11T18:22:05.566Z"
+  },
+  {
+    "id": "builtin_text-v21ykV",
+    "formData": {
+      "text$en": "Sua aplicação é feita quando existe a necessidade de registrar e planejar uma significativa quantidade de trabalho voltado a UX, que pode não ser relacionado a uma User Story específica. A partir desse trabalho de UX é criado um artefato, no mesmo nível de hierarquia de uma User Story, onde esse trabalho é descrito, planejado e registrado.",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:23:13.644Z",
+    "modifiedOn": "2022-01-11T18:23:13.644Z"
+  },
+  {
+    "id": "builtin_text-tgRcfF",
+    "formData": {
+      "text$en": "Nesse caso você precisa do padrão UX Specific Repository",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:28:31.321Z",
+    "modifiedOn": "2022-01-11T18:28:41.680Z"
+  },
+  {
+    "id": "builtin_text-pBRMcP",
+    "formData": {
+      "text$en": "Nesse caso você precisa do padrão UX Central Repository",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:30:04.875Z",
+    "modifiedOn": "2022-01-11T18:30:11.498Z"
+  },
+  {
+    "id": "builtin_text-BoWQ3z",
+    "formData": {
+      "text$en": "Nesse caso você precisa do padrão UX Acceptance Criteria",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:31:06.240Z",
+    "modifiedOn": "2022-01-11T18:31:06.240Z"
+  },
+  {
+    "id": "builtin_text--bhejS",
+    "formData": {
+      "text$en": "Nesse caso você precisa do padrão UX Tasks",
+      "markdown$en": true,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:33:33.885Z",
+    "modifiedOn": "2022-01-11T18:33:33.885Z"
+  }
+]

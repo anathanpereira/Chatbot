@@ -1,0 +1,122 @@
+[
+  {
+    "id": "builtin_single-choice-3qurPB",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Sim, adoraria!",
+          "value": "Sim"
+        },
+        {
+          "title": "Não, obrigado.",
+          "value": "Não"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "Me diga, você quer saber mais sobre os nossos padrões?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:27:29.616Z",
+    "modifiedOn": "2022-01-11T17:51:11.413Z"
+  },
+  {
+    "id": "builtin_single-choice-jCrbBJ",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Quero saber como organizar meus repositórios",
+          "value": "repositorio"
+        },
+        {
+          "title": "Quero construir minhas User Stories",
+          "value": "Us"
+        },
+        {
+          "title": "Quero entender como categorizar minhas tarefas de UX",
+          "value": "ux"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "Por onde quer começar?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:41:26.159Z",
+    "modifiedOn": "2022-01-11T17:51:55.930Z"
+  },
+  {
+    "id": "builtin_single-choice-IBMKW6",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Se aplicam a todo projeto.",
+          "value": "todo"
+        },
+        {
+          "title": "São especificas a uma epic.",
+          "value": "epic"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "As informações que deseja armazenar são gerais e se aplicam a todo o projeto ou são mais especificas à uma Epic?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T17:55:32.818Z",
+    "modifiedOn": "2022-01-11T17:55:32.818Z"
+  },
+  {
+    "id": "builtin_single-choice-VzJDFs",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Sim",
+          "value": "sim"
+        },
+        {
+          "title": "Não",
+          "value": "nao"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "Precisa de mais alguma coisa?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:02:56.974Z",
+    "modifiedOn": "2022-01-11T18:02:56.974Z"
+  },
+  {
+    "id": "builtin_single-choice-Pdme0A",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Um grande trabalho de UX voltado a várias User Stories",
+          "value": "varias"
+        },
+        {
+          "title": "A uma única User Story",
+          "value": "unica"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "Sua tarefa de UX demanda muito trabalho e é voltada à várias User Stories, ou é uma atividade de UX associada a uma User Story especifica?",
+      "isDropdown$en": false
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-01-11T18:20:01.462Z",
+    "modifiedOn": "2022-01-11T18:36:41.585Z"
+  }
+]

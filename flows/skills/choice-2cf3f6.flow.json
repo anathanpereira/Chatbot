@@ -1,0 +1,101 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "randomId": "cxl52qljiu",
+    "contentId": "builtin_single-choice-jCrbBJ",
+    "invalidContentId": "",
+    "keywords": {
+      "repositorio": [
+        "repositorio",
+        "Quero saber como organizar meus repositórios"
+      ],
+      "Us": [
+        "Us",
+        "Quero construir minhas User Stories"
+      ],
+      "ux": [
+        "ux",
+        "Quero entender como categorizar minhas tarefas de UX"
+      ]
+    },
+    "config": {
+      "nbMaxRetries": 3,
+      "repeatChoicesOnInvalid": false,
+      "variableName": ""
+    }
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-jCrbBJ {\"skill\":\"choice\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "711230"
+    },
+    {
+      "name": "parse",
+      "onReceive": [
+        "basic-skills/choice_parse_answer {\"randomId\":\"cxl52qljiu\",\"contentId\":\"builtin_single-choice-jCrbBJ\",\"invalidContentId\":\"\",\"keywords\":{\"repositorio\":[\"repositorio\",\"Quero saber como organizar meus repositórios\"],\"Us\":[\"Us\",\"Quero construir minhas User Stories\"],\"ux\":[\"ux\",\"Quero entender como categorizar minhas tarefas de UX\"]},\"config\":{\"nbMaxRetries\":3,\"repeatChoicesOnInvalid\":false,\"variableName\":\"\"}}"
+      ],
+      "next": [
+        {
+          "condition": "temp['skill-choice-valid-cxl52qljiu'] === true",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "invalid"
+        }
+      ],
+      "triggers": [
+        {
+          "conditions": [
+            {
+              "id": "always"
+            }
+          ]
+        }
+      ],
+      "onEnter": [],
+      "id": "507605"
+    },
+    {
+      "name": "invalid",
+      "onEnter": [
+        "basic-skills/choice_invalid_answer {\"randomId\":\"cxl52qljiu\"}"
+      ],
+      "next": [
+        {
+          "condition": "Number(temp['skill-choice-invalid-count-cxl52qljiu']) > Number(3)",
+          "node": "#"
+        },
+        {
+          "condition": "true",
+          "node": "sorry"
+        }
+      ],
+      "id": "620385"
+    },
+    {
+      "name": "sorry",
+      "onEnter": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "parse"
+        }
+      ],
+      "id": "019429"
+    }
+  ]
+}
